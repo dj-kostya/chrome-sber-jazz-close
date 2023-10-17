@@ -25,7 +25,8 @@
         "https://zoom.us/j/*",
         "https://*.zoom.us/j/*",
         "https://zoom.us/s/*",
-        "https://*.zoom.us/s/*"
+        "https://*.zoom.us/s/*",
+        "https://jazz.sber.ru/*"
       ],
       "js": [
         "content.js"
